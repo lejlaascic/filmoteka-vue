@@ -1,3 +1,3 @@
 export default {
-    apikey: '6834fd85',
+    apikey: 'http://www.omdbapi.com/?apikey=6834fd85',
 }
